@@ -1,0 +1,16 @@
+{
+    "name": "joe/fast-route",
+    "autoload": {
+        "psr-4": {
+            "FastRoute\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joe"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
